@@ -6,7 +6,7 @@ Submission piece for Developing Technical Software, BScs Computer Science.
 </p>
 
 ### Description:
-This Program creates a Linked List with random values, and allows users enter a key value to search for using a Linear Search function.
+This Program creates a Linked List with random values, and allows users to search for a key value using a Linear Search function.
 
 
 
